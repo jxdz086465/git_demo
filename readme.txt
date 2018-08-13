@@ -10,3 +10,4 @@ add line 11111.
 又增加了一行
 
 Creating a new branch is quick.
+Creating a new branch is quick & simple.
